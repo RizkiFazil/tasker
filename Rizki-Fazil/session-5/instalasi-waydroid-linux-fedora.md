@@ -74,7 +74,7 @@ rincian dari syntax tersebut adalah sebagai berikut:
 
 ### Maka Waydroid sudah Terinstall dan sudah dapat digunakan
 
-<img src="/img/img1.png" alt="img1" width="340px" height="214px">
+<img width="1913" height="1080" alt="img1" src="https://github.com/user-attachments/assets/bf28353a-c3f0-406c-85de-c0b97b4a6059" />
 
 <img src="/img/img2.png" alt="img2" width="340px" height="214px">
 
